@@ -11,5 +11,9 @@ I am excited about the potential impact this feature can have on the lives of se
 ![IMG20230507185049](https://user-images.githubusercontent.com/132133982/236681827-0e599f75-4d46-47da-af9f-351cbb0de792.jpg)
 
 
+Demo Video-
+
+
+https://github.com/ShreyaChandurkar/Text_Magnifier/assets/132133982/6417d916-3540-4639-a8ee-5a9b6c540f8e
 
 
